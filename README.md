@@ -1,1 +1,2 @@
 # WebSocketTetris
+在clone后只需运行npm install即可将所需的node_modules文件补齐
